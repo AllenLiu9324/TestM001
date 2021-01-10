@@ -1,5 +1,9 @@
 package Homework02;
+<<<<<<< HEAD
 //masterVersion
+=======
+//subVersion
+>>>>>>> sub
 public class TestNineNine {
 	
 	public static void main(String[] args) {
